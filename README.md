@@ -1,2 +1,11 @@
-# cmatrix-rip-off-using-python
-in development
+## 📝About
+
+CMATRIX RIP-OFF using python.
+
+## 👨‍💻 Dependencies
+
+> colorama
+> time
+> termcolor
+
+
