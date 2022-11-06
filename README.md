@@ -11,6 +11,6 @@ CMATRIX RIP-OFF using python.
 
 ## 📺 Updates
 IN DEVELOPMENT!
-> needs scaling
+> needs scaling <br>
 > some more colours
 
