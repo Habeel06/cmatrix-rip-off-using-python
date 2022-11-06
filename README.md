@@ -4,8 +4,8 @@ CMATRIX RIP-OFF using python.
 
 ## 👨‍💻 Dependencies
 
-> colorama
-> time
-> termcolor
+> colorama <br>
+> time<br>
+> termcolor<br>
 
 
