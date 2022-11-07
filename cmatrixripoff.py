@@ -1,4 +1,4 @@
-from colorama import Fore, init, Back #I have used both colorama and termcolor for coloring, it could have been done
+from colorama import Fore, init, Back #I have used both colorama and termcolor for coloring, it could have been done with only one.
 import time
 from termcolor import colored
 init()
