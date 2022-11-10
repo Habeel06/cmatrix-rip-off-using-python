@@ -2,6 +2,8 @@
 
 CMATRIX RIP-OFF using python.
 
+<img src="cro.jpg">
+
 ## 👨‍💻 Dependencies
 
 > colorama <br>
